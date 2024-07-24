@@ -1,6 +1,10 @@
 import Image from "next/image";
 import Navbar from "../components/Navbar";
 import Brandscroll from "../components/Brandscroll";
+import Visit from "../components/Visit"; 
+import Footer from "../components/Footer";
+import Review from "../components/Review";
+import Trabajo from "../components/Trabajo";
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -20,7 +24,11 @@ export default function Home() {
           </p>
         </div>
       </main>
+      <Trabajo />
+      <Review />
       <Brandscroll />
+      <Visit />
+      <Footer />
     </>
   );
 }

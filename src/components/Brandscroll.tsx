@@ -2,8 +2,12 @@ import Image from "next/image";
 
 export default function Brandscroll() {
     return (
-        <main className="relative min-h-screen flex flex-col justify-center bg-white overflow-hidden">
-            <div className="w-full max-w-5xl mx-auto px-4 md:px-6 py-24">
+        <main className="relative flex flex-col justify-center bg-white overflow-hidden">
+           
+            <div className="max-w-2xl lg:max-w-4xl mx-auto text-center mt-10">
+                    <h2 className="text-3xl font-extrabold text-gray-900"> Trabajamos solo con las mejores marcas</h2>
+                </div>
+            <div className="w-full max-w-5xl mx-auto px-4 md:px-6">
                 <div className="text-center">
 
                     <div
