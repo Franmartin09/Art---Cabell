@@ -7,18 +7,6 @@ export default function Navbar() {
   return (
     <>  
         <nav className="z-10 fixed left-0 top-0 w-full bg-gradient-to-b from-white via-white 75% to-transparent">
-        <div className="flex justify-between items-center py-1 bg-grey text-xs">
-          <div className="flex items-center space-x-4">
-            <span id="et-info-phone">T. 644 17 70 68</span>
-            <ul className="flex space-x-4">
-              <li>
-                <a href="https://www.instagram.com/artcabell_perruqueria/" className="icon ds-iparty-icon brands">
-                  <span>Instagram</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
           <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
                 <Logo />

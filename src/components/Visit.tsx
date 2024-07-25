@@ -16,14 +16,13 @@ export default function Visit() {
                                 </div>
                                 <div className="border-t border-gray-200 px-6 py-4">
                                     <h3 className="text-lg font-medium text-gray-900">Horario</h3>
-                                    <p className="mt-1 text-gray-600">Martes - Sabado: 9am - 2pm</p>
-                                    <p className="mt-1 text-gray-600">Jueves y Viernes: 2pm - 7pm</p>
-                                    <p className="mt-1 text-gray-600">Domingo y Lunes: Cerrado</p>
-                                </div>
-                                <div className="border-t border-gray-200 px-6 py-4">
-                                    <h3 className="text-lg font-medium text-gray-900">Contacto</h3>
-                                    <p className="mt-1 text-gray-600">Instagram: @artcabell_perruqueria</p>
-                                    <p className="mt-1 text-gray-600">Telefono: +34 699 94 01 36</p>
+                                    <p className="mt-1 text-gray-600">Lunes: Cerrado</p>
+                                    <p className="mt-1 text-gray-600">Martes: 9am - 2pm</p>
+                                    <p className="mt-1 text-gray-600">Miercoles: 9am - 2pm</p>
+                                    <p className="mt-1 text-gray-600">Jueves: 9am - 7pm </p>
+                                    <p className="mt-1 text-gray-600">Viernes: 9am - 7pm</p>
+                                    <p className="mt-1 text-gray-600">Sabado: 9am - 2pm</p>
+                                    <p className="mt-1 text-gray-600">Domingo: Cerrado</p>
                                 </div>
                             </div>
                         </div>
