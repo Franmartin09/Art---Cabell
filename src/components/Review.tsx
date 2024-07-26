@@ -27,7 +27,7 @@ export default function Review() {
                         className="aspect-auto p-8 border border-red-100 rounded-3xl bg-red-200 shadow-2xl shadow-gray-600/10">
                         <div className="flex gap-4">
                             <Image
-                                src="/images/p1.png"
+                                src="/images/people/p1.png"
                                 alt="user avatar"
                                 className="w-12 h-12 rounded-full"
                                 width={400}
@@ -48,7 +48,7 @@ export default function Review() {
                         className="aspect-auto p-8 border border-red-100 rounded-3xl bg-red-200 shadow-2xl shadow-gray-600/10">
                         <div className="flex gap-4">
                             <Image
-                                src="/images/p3.png"
+                                src="/images/people/p3.png"
                                 alt="user avatar"
                                 className="w-12 h-12 rounded-full"
                                 width={200}
@@ -66,7 +66,7 @@ export default function Review() {
                         className="aspect-auto p-8 border border-red-100 rounded-3xl bg-red-200 shadow-2xl shadow-gray-600/10">
                         <div className="flex gap-4">
                             <Image
-                                src="/images/p4.png"
+                                src="/images/people/p4.png"
                                 alt="user avatar"
                                 className="w-12 h-12 rounded-full"
                                 width={200}
@@ -87,7 +87,7 @@ export default function Review() {
                         className="aspect-auto p-8 border border-red-100 rounded-3xl bg-red-200 shadow-2xl shadow-gray-600/10">
                         <div className="flex gap-4">
                             <Image
-                                src="/images/p2.png"
+                                src="/images/people/p2.png"
                                 alt="user avatar"
                                 className="w-12 h-12 rounded-full"
                                 width={200}
@@ -103,7 +103,7 @@ export default function Review() {
                         className="aspect-auto p-8 border border-red-100 rounded-3xl bg-red-200 shadow-2xl shadow-gray-600/10">
                         <div className="flex gap-4">
                             <Image
-                                src="/images/p5.png"
+                                src="/images/people/p5.png"
                                 alt="user avatar"
                                 className="w-12 h-12 rounded-full"
                                 width={200}

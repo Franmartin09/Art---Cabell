@@ -22,7 +22,7 @@ export default function Brandscroll() {
                         <ul x-ref="logos" className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll ">
                             <li>
                                 <Image
-                                    src="/images/tahe_logo.png"
+                                    src="/images/brands/tahe_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -31,7 +31,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/ghd_logo.png"
+                                    src="/images/brands/ghd_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -40,7 +40,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/loreal_logo.png"
+                                    src="/images/brands/loreal_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -49,7 +49,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/lendan_logo.png"
+                                    src="/images/brands/lendan_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -58,7 +58,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/wella_logo.png"
+                                    src="/images/brands/wella_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -67,7 +67,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/tigi_logo.png"
+                                    src="/images/brands/tigi_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -78,7 +78,7 @@ export default function Brandscroll() {
                         <ul x-ref="logos" className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll ">
                             <li>
                                 <Image
-                                    src="/images/tahe_logo.png"
+                                    src="/images/brands/tahe_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -87,7 +87,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/ghd_logo.png"
+                                    src="/images/brands/ghd_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -96,7 +96,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/loreal_logo.png"
+                                    src="/images/brands/loreal_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -105,7 +105,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/lendan_logo.png"
+                                    src="/images/brands/lendan_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -114,7 +114,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/wella_logo.png"
+                                    src="/images/brands/wella_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
@@ -123,7 +123,7 @@ export default function Brandscroll() {
                             </li>
                             <li>
                                 <Image
-                                    src="/images/tigi_logo.png"
+                                    src="/images/brands/tigi_logo.png"
                                     alt="Tahe"
                                     className="h-30"
                                     width={150}
